@@ -4,4 +4,4 @@
 rebase-practiceで編集(rebase conflict用)
 rebase pull用
 
-stash練習
+stash練習(トラック済み)
