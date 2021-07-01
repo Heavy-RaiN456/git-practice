@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 
-mainで編集(conflict)
+rebase-practiceで編集(rebase conflict用)
